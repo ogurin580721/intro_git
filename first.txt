@@ -5,3 +5,6 @@ Git復習中
 ・git rm
 ・git status
 ・git diff
+
+個人で新しく追加
+
